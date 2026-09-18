@@ -1,0 +1,382 @@
+# Registry Security Layer Source-Available License
+
+## Version 1.0 — 2026
+
+Copyright (c) 2026 Emmanuel Ohiolei Akhigbe-Agge
+
+All rights reserved except for the limited permissions expressly granted by this License.
+
+---
+
+## 1. Definitions
+
+For the purposes of this License:
+
+**"Software"** means the Registry Security Layer software, source code, documentation, configuration files, datasets created by the Author, and other materials distributed by the Author under this License.
+
+**"Author"** means Emmanuel Ohiolei Akhigbe-Agge, the copyright holder of the original Software.
+
+**"You"** or **"User"** means any person or organization that accesses, downloads, studies, uses, modifies, or contributes to the Software.
+
+**"Modified Version"** means any version of the Software containing modifications, additions, deletions, adaptations, or other derivative changes made by someone other than the Author.
+
+**"Commercial Use"** means use of the Software, or a Modified Version, directly or indirectly for commercial advantage, monetary compensation, revenue generation, paid services, sale, resale, licensing, subscription services, or incorporation into a commercial product or service.
+
+**"Redistribute"** or **"Redistribution"** means providing, publishing, transferring, selling, licensing, sublicensing, or otherwise making the Software or a Modified Version available to another person or organization.
+
+---
+
+## 2. Copyright Ownership
+
+The original Software and its original source code remain the copyrighted work of the Author.
+
+Nothing in this License transfers ownership of the Software or its copyright to You.
+
+You may not represent the original Software, or the Author's original work contained within it, as having been created by You or by another person.
+
+The name, identity, copyright notices, authorship information, and project history associated with the original Software must not be removed, concealed, or deliberately altered for the purpose of misrepresenting authorship.
+
+---
+
+## 3. Permission to Study
+
+The Author grants You a limited, non-exclusive, non-transferable, royalty-free permission to:
+
+* Read the source code;
+* Study the Software;
+* Inspect its implementation;
+* Learn from its design;
+* Analyze its security architecture;
+* Evaluate its operation;
+* Use the Software for personal learning and research.
+
+These permissions do not transfer ownership of the Software.
+
+---
+
+## 4. Permission to Use for Testing and Development
+
+You may use the Software for:
+
+* Personal experimentation;
+* Educational purposes;
+* Academic research;
+* Security research;
+* Development and testing;
+* Evaluation of the Software;
+* Demonstrations that do not constitute Commercial Use.
+
+Testing must be performed only on systems for which You have appropriate authorization.
+
+You may not use the Software to conduct unauthorized access, surveillance, attacks, disruption, or other unlawful activity.
+
+---
+
+## 5. Permission to Modify
+
+You may modify the Software for personal, educational, academic, research, development, and testing purposes.
+
+You may:
+
+* Edit the source code;
+* Add features;
+* Remove features;
+* Refactor the code;
+* Fix bugs;
+* Experiment with alternative implementations;
+* Create private Modified Versions.
+
+Modified Versions remain subject to this License unless the Author provides written permission under different terms.
+
+Modification of the Software does not transfer ownership of the original Software to You.
+
+---
+
+## 6. Contributions
+
+You may contribute modifications, improvements, bug fixes, documentation, tests, or other work to the project through mechanisms designated by the Author, including GitHub pull requests.
+
+By submitting a contribution, You confirm that:
+
+1. You have the legal right to submit the contribution;
+2. Your contribution does not knowingly violate another person's copyright or other intellectual-property rights;
+3. You understand that the contribution may become part of the Software;
+4. The contribution may be distributed as part of the Software under this License.
+
+Unless a separate written agreement states otherwise, You retain ownership of copyright in original material that You independently contribute.
+
+By submitting a contribution, You grant the Author a perpetual, worldwide, royalty-free, non-exclusive license to use, reproduce, modify, incorporate, distribute, and maintain that contribution as part of the Software under this License and any later license chosen by the Author for the project.
+
+This contribution permission does not give You ownership of the Author's original work.
+
+---
+
+## 7. Non-Commercial Restriction
+
+Commercial Use of the Software is prohibited without prior written permission from the Author.
+
+Without written permission, You may not:
+
+* Sell the Software;
+* Sell a Modified Version;
+* Charge a fee for access to the Software;
+* Offer the Software as a paid service;
+* Incorporate the Software into a product or service offered for commercial advantage;
+* Use the Software to provide a paid hosted or managed service;
+* Use the Software as a commercial component of another product;
+* Monetize the Software or a Modified Version;
+* License the Software to a third party for commercial use.
+
+The Author may separately grant commercial licenses under terms agreed with individual users or organizations.
+
+---
+
+## 8. No Sublicensing
+
+You may not sublicense the Software.
+
+You may not grant another person or organization rights to the Software that You do not personally possess under this License.
+
+You may not create another license that purports to grant broader rights to the Software or a Modified Version.
+
+Any attempt to sublicense the Software without written authorization from the Author is prohibited.
+
+---
+
+## 9. Redistribution
+
+Redistribution of the Software or a Modified Version is prohibited unless expressly permitted by the Author in writing.
+
+In particular, You may not:
+
+* Publish the Software as Your own project;
+* Upload the Software or a Modified Version to another public repository;
+* Republish the Software under another license;
+* Distribute copies of the Software to third parties;
+* Create a competing public distribution of the Software;
+* Package the Software for redistribution;
+* Remove the Author's copyright information and redistribute the result.
+
+Private copies and private Modified Versions for permitted personal, educational, research, development, and testing purposes are allowed.
+
+The Author may grant specific written permission for redistribution where appropriate.
+
+---
+
+## 10. Attribution and Authorship
+
+The following copyright notice must remain intact in the original Software:
+
+```text
+Copyright (c) 2026 Emmanuel Ohiolei Akhigbe-Agge
+```
+
+You may not:
+
+* Claim that You created the original Software;
+* Claim that You are the original Author;
+* Remove or conceal the Author's copyright notice;
+* Deliberately present the Author's original work as independently created by You;
+* Use a Modified Version in a manner that falsely implies that the Author endorsed or created Your modifications.
+
+You may describe Your own modifications and contributions, provided that You clearly distinguish them from the original work.
+
+For example:
+
+```text
+Original project:
+Registry Security Layer
+Copyright (c) 2026 Emmanuel Ohiolei Akhigbe-Agge
+
+Modifications:
+[Your Name]
+[Description of your modifications]
+```
+
+---
+
+## 11. Project Name and Identity
+
+The name **Registry Security Layer** identifies the original project created by the Author.
+
+You may refer to the project for legitimate attribution, research, discussion, or contribution purposes.
+
+You may not use the project name, documentation, branding, or other identifying material in a manner that falsely suggests that:
+
+* You are the Author;
+* You own the original project;
+* Your Modified Version is the official project;
+* The Author endorses Your Modified Version.
+
+The Author may establish additional branding or trademark rules independently of this License.
+
+---
+
+## 12. Modified Versions
+
+You may create private Modified Versions for the purposes permitted by this License.
+
+A Modified Version must not be represented as the unchanged original Software.
+
+If You display or demonstrate a Modified Version in a permitted educational or research context, You should clearly identify that it has been modified.
+
+For example:
+
+```text
+Based on Registry Security Layer by Emmanuel Ohiolei Akhigbe-Agge.
+This version contains modifications by [Name].
+```
+
+You may not publish or commercially distribute the Modified Version without written permission from the Author.
+
+---
+
+## 13. Academic and Research Use
+
+Academic and research use is permitted provided that:
+
+* The Software is not commercially exploited;
+* The Author's copyright is properly acknowledged;
+* The Software is not redistributed without permission;
+* Modified versions are clearly identified as modifications;
+* The research does not imply that the Author conducted or endorsed work performed solely by You.
+
+Academic publications may describe, analyze, evaluate, or reference the Software.
+
+Where the Software itself is reproduced in an academic work, the reproduction must comply with applicable copyright law and this License.
+
+---
+
+## 14. Security Research
+
+Security research, auditing, vulnerability analysis, and defensive testing of the Software are permitted.
+
+Researchers must only test systems for which they have appropriate authorization.
+
+Nothing in this License grants permission to access, damage, interfere with, or compromise systems belonging to another person or organization.
+
+---
+
+## 15. No Unauthorized Commercial Exploitation
+
+Without written permission from the Author, You may not use the Software as the basis for:
+
+* A commercial cybersecurity product;
+* A paid security service;
+* A commercial monitoring platform;
+* A commercial endpoint-security product;
+* A commercial software package;
+* A paid hosted service;
+* A subscription product;
+* A commercial consulting service where the Software itself forms a material part of the service.
+
+Commercial licensing may be obtained separately from the Author.
+
+---
+
+## 16. No Transfer of Ownership
+
+Using, modifying, studying, testing, or contributing to the Software does not transfer copyright ownership.
+
+The Author retains ownership of the original Software and original contributions made by the Author.
+
+No provision of this License shall be interpreted as an assignment of copyright.
+
+---
+
+## 17. Termination
+
+The permissions granted by this License automatically terminate if You materially violate its terms.
+
+Upon termination, You must stop using the Software except to the extent that applicable law provides otherwise.
+
+Termination does not affect rights or obligations that arose before termination.
+
+The Author may restore permissions by providing written authorization.
+
+---
+
+## 18. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM FAILURE, DATA LOSS, SECURITY INCIDENT, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+---
+
+## 19. Security and System Risk
+
+The Software interacts with Windows system components, including the Windows Registry.
+
+Registry modifications can affect system behavior, configuration, security, and system stability.
+
+Users are responsible for ensuring that they have appropriate authorization before testing the Software.
+
+The Author does not authorize the Software to be used for unauthorized access, malicious activity, or unlawful system modification.
+
+---
+
+## 20. No Implied Rights
+
+Any permission not expressly granted by this License is reserved by the Author.
+
+In particular, this License does not grant:
+
+* Commercial-use rights;
+* Sublicensing rights;
+* Redistribution rights;
+* Ownership rights;
+* Trademark rights;
+* Rights to represent the Software as your own;
+* Rights to commercially exploit the Software.
+
+---
+
+## 21. Exceptions by Written Permission
+
+The Author may grant additional permissions to an individual or organization through written authorization.
+
+Such authorization may permit activities otherwise prohibited by this License, including:
+
+* Commercial use;
+* Redistribution;
+* Sublicensing;
+* Commercial distribution;
+* Integration into commercial products;
+* Hosting or managed-service use.
+
+Unless expressly stated otherwise, an exception applies only to the person or organization to whom it is granted.
+
+---
+
+## 22. License Changes
+
+The Author may publish new versions of this License for future releases of the Software.
+
+A particular version of the Software remains governed by the License accompanying that version unless the Author expressly states otherwise.
+
+---
+
+## 23. Governing Law
+
+This License shall be interpreted under the applicable laws governing the Author and the relevant use of the Software, subject to any mandatory legal requirements that cannot lawfully be excluded or modified by agreement.
+
+---
+
+## 24. Acceptance
+
+By using, modifying, or accessing the Software beyond activities permitted by applicable copyright law, You acknowledge that You have read and understood this License and agree to comply with its terms.
+
+If You do not agree to these terms, You are not granted the permissions described in this License.
+
+---
+
+## Copyright Notice
+
+```text
+Registry Security Layer
+Copyright (c) 2026 Emmanuel Ohiolei Akhigbe-Agge
+
+Licensed under the Registry Security Layer Source-Available License
+Version 1.0
+```
